@@ -47,7 +47,6 @@ This will set the record with ID 1 the internal IPv4 of the eth0 and the record 
 | pass  | The password used to authenticate. Can be created in the PDNS Manager by clicking the key icon on the domains list |
 | host  | The URL that the PDNS instance can be found                                                                        |
 | i     | The interface to get the internal IPs                                                                              |
-|       |
 
 ## Usage with cron
 
