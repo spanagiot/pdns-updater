@@ -38,7 +38,7 @@ This will set the record with ID 1 the internal IPv4 of the eth0 and the record 
 
 ### Parameters list
 
-|       |                                                                                                                    |
+|  Parameter name     |                                                                                                                     Description | 
 | ----- | ------------------------------------------------------------------------------------------------------------------ |
 | ia    | The ID of the internal A record you want to update                                                                 |
 | iaaaa | The ID of the internal AAAA record you want to update                                                              |
